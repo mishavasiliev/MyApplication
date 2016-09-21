@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VK</string>
+    <integer name="com_vk_sdk_AppId">5632725</integer>
+    <string name="steward">Steward</string>
+    <string name="mutual_friends">Mutual friends</string>
+</resources>
+
